@@ -1,3 +1,5 @@
+Nome da dupla: Dante Rodrigues e David Fernando
+
 O Jogo Classic Arcade é um jogo modelo "fliperama", onde o jogador poderá selecionar entrem 3 jogos: Perguntas e respostas, Cobra na caixa e Gousmas War. Cada jogo pode ser jogado quantas vezes o joagdor desejar.
  No jogo perguntas e respostas, o jogador deve selecionar       
  uma das quatro opções para responder as perguntas propostas.     
